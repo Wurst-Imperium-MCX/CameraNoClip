@@ -1,2 +1,1 @@
-# CameraNoClip
-This only exists to host CameraNoClip releases, please ignore!
+![](https://img.wimods.net/github.com/Wurst-Imperium-MCX/CameraNoClip)
